@@ -9,6 +9,12 @@ The Invoice Entry Automation project is designed to streamline the process of ha
 
 # Technologies Used
 - UiPath: For building the RPA workflow.
+  -!- Make sure to have these UiPath Packages installed : 
+  - UiPath.Mail.Activities
+  - UiPath.System.Activities
+  - UiPath.Excel.Activities
+  - UiPath.PDF.Activities
+  - UiPath.UIAutomation.Activities
 - Microsoft Outlook: To manage and retrieve invoice emails.
 - Excel: For reporting and data management.
 - PDF Reading Libraries: To extract information from PDF invoices.
