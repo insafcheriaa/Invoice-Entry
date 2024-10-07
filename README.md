@@ -23,4 +23,5 @@ This project idea is part of the Robotic Process Automation (RPA) Specialization
 - Set up your Outlook account for email retrieval.
 - Configure paths for PDF storage and Excel file locations.
 - Run the automation process to handle invoices.
-(In this project files you will find invoice samples and the ERP Application that only needs a double click to launch)
+
+(In this project files you will find invoice samples and the ERP Application Order Entry.exe that only needs a double click to be launched)
