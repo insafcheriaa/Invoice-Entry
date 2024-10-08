@@ -7,7 +7,7 @@ The Invoice Entry Automation project is designed to streamline the process of ha
 - ERP Integration: Uploads extracted data directly into an ERP application, ensuring accurate record-keeping and management.
 - Reporting: Generates and updates Excel reports with invoice information, including the number of items and timestamps.
 
-# Technologies Used
+# Packages Used
 - UiPath: For building the RPA workflow.
    Make sure to have these UiPath Packages installed : 
   - UiPath.Mail.Activities
